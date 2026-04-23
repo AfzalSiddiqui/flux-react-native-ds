@@ -1,5 +1,5 @@
 {
-  "name": "@anthropic-flux/react-native-ds",
+  "name": "@flux-ds/react-native-ds",
   "version": "1.0.0",
   "description": "Flux Design System tokens and theme for React Native",
   "main": "src/index.ts",
